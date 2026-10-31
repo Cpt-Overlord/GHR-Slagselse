@@ -48,6 +48,10 @@ $grp GenericEntity {
   }
   coords 2939.442 23.98 421.183
  }
+ {
+  coords 3658.575 18.844 990.231
+  angles 0 -152.939 0
+ }
 }
 SCR_DestructibleBuildingEntity : "{00EF1FFDCF60838E}Prefabs/Infrastructure/Terrain Bridge/PipeHidden.et" {
  coords 3072.606 5.257 1412.72
@@ -88,7 +92,6 @@ Vehicle LAV1 : "{0FBF8F010F81A4E5}Prefabs/Vehicles/Wheeled/LAV25/LAV25.et" {
   }
   SCR_VehicleSoundComponent "{55C2E66AD4EF2CA6}" {
    Enabled 0
-   "Sound Geometry" 0
   }
   AIKnowledgeComponent "{6120C53097494C76}" {
    Enabled 0
@@ -390,10 +393,6 @@ SCR_DestructibleBuildingEntity : "{35A406D39D6E0ADA}Prefabs/Structures/Military/
 StaticModelEntity : "{35E14C4C60C4A4F3}Prefabs/Structures/Agriculture/WeightStation/WeightStation_01/BuildingAddons/WeightStation_01_platform.et" {
  coords 1929.187 23.034 769.095
  angles 0 83.635 0
-}
-GenericEntity : "{3A5D6EEA1C21816F}Prefabs/ImprovisedStructures/MG_Nest01_Base.et" {
- coords 3658.575 18.844 990.231
- angles 0 -152.939 0
 }
 SCR_DestructibleBuildingEntity : "{3AE5243288F71FA6}Prefabs/Structures/Military/Houses/ClubMilitary_01/ClubMilitary_E_01.et" {
  coords 1590.596 -0.059 1032.881

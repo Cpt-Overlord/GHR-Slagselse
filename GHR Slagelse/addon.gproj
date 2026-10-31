@@ -1,0 +1,22 @@
+GameProject {
+ ID "GHRSlagelse"
+ GUID "68C539D02BE99CC4"
+ TITLE "GHR Slagelse"
+ Dependencies {
+  "58D0FB3206B6F859" "5D84C738432BFE6A" "5F0D245931200FD1" "5E8EB849F3CF691C" "6242C5C60C0A637E"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

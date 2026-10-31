@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "D:/Arma Reforger Maps/GHR Slagelse/gtt_export/gtt_heightmap.asc"
+ Flags 1
+ MinHeight -1000000
+ ResampleMinHeight 0
+ ResampleMaxHeight 1
+}

@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "D:/Arma Reforger Maps/GHR Slagelse/gtt_export/gtt_satmap.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

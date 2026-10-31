@@ -1,0 +1,13 @@
+TerrainMaterial {
+ SurfaceProperties "{98A7DA3689C05F5C}Common/Materials/Game/sand.gamemat"
+ BCRMap "{6C7DB7CDF079FDB2}Textures/Common/Surfaces/Sand/Sand_sand_BCR.edds"
+ NHOMap "{4B4AFC89F33FBBA5}Textures/Common/Surfaces/Sand/Sand_sand_NHO.edds"
+ DielectricReflectance 0.002
+ ScaleUV 2.1
+ SatMapBlend 0.449
+ ClutterConfig "{F3E7DB655BF2465D}Configs/Clutter/Sets/c_set_Pebbles_02.conf"
+ BCRMiddleMap "{77A5CCEDC7E1B911}Textures/Common/Surfaces/Sand/Sand 2k_sand_BCR.edds"
+ NHOMiddleMap "{509287A9C4A7FF06}Textures/Common/Surfaces/Sand/Sand 2k_sand_NHO.edds"
+ MiddleScaleUV 26.9
+ WetnessScale 0.7
+}

@@ -1,0 +1,9 @@
+TerrainMaterial {
+ SurfaceProperties "{0A0E0A00D6C9FAAB}Common/Materials/Game/moss.gamemat"
+ BCRMap "{6C10A904BF85DE4B}Textures/Common/Surfaces/Mud/Mud_mud_BCR.edds"
+ NHOMap "{4B27E240BCC3985C}Textures/Common/Surfaces/Mud/Mud_mud_NHO.edds"
+ DielectricReflectance 0.005
+ BCRMiddleMap "{922912FDC53739FB}Textures/Common/Surfaces/Mud/Mud2k_mud_BCR.edds"
+ NHOMiddleMap "{B51E59B9C6717FEC}Textures/Common/Surfaces/Mud/Mud2k_mud_NHO.edds"
+ MiddleScaleUV 26.9
+}

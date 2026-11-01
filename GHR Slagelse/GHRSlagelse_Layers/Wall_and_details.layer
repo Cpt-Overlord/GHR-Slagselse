@@ -19727,10 +19727,9 @@ $grp SplineShapeEntity {
   }
   LineColor 0 0 0 0
   {
-   WallGeneratorEntity : "{7DEB96EE3D90CC83}Prefabs/WEGenerators/Walls and Rows of Props/Defenses/Barbed Wire/WG_WallGenerator_BarbedWire_01.et" {
+   WallGeneratorEntity {
     Flags 0x100003 0
     coords 0 0 0
-    angles 0 0 0
     m_iSeed 1040
     {
      $grp StaticModelEntity : "{18822FB3F0D2ED00}Prefabs/Structures/Walls/BarbedWire/BarbedTape_01/BarbedTape_01_Long.et" {
@@ -20049,9 +20048,8 @@ $grp SplineShapeEntity {
   }
   LineColor 0 0 0 0
   {
-   WallGeneratorEntity : "{11BFA20E815443AD}Prefabs/WEGenerators/Walls and Rows of Props/Defenses/Barbed Wire/WG_WallGenerator_BarbedWire_02.et" {
+   WallGeneratorEntity {
     Flags 0x100003 0
-    angles 0 0 0
     m_iSeed 23506
     {
      $grp StaticModelEntity : "{93E06E731212BD96}Prefabs/Structures/Walls/BarbedWire/BarbedTape_01/BarbedTape_01_Triple.et" {
@@ -20111,9 +20109,8 @@ $grp SplineShapeEntity {
    }
   }
   {
-   WallGeneratorEntity : "{7DEB96EE3D90CC83}Prefabs/WEGenerators/Walls and Rows of Props/Defenses/Barbed Wire/WG_WallGenerator_BarbedWire_01.et" {
+   WallGeneratorEntity {
     Flags 0x100003 0
-    angles 0 0 0
     m_iSeed 6165
     {
      $grp StaticModelEntity : "{18822FB3F0D2ED00}Prefabs/Structures/Walls/BarbedWire/BarbedTape_01/BarbedTape_01_Long.et" {
@@ -20224,10 +20221,9 @@ $grp SplineShapeEntity {
   }
   LineColor 0 0 0 0
   {
-   WallGeneratorEntity : "{7DEB96EE3D90CC83}Prefabs/WEGenerators/Walls and Rows of Props/Defenses/Barbed Wire/WG_WallGenerator_BarbedWire_01.et" {
+   WallGeneratorEntity {
     Flags 0x100003 0
     coords 0 0 0
-    angles 0 0 0
     m_iSeed 6615
     {
      $grp StaticModelEntity : "{18822FB3F0D2ED00}Prefabs/Structures/Walls/BarbedWire/BarbedTape_01/BarbedTape_01_Long.et" {
